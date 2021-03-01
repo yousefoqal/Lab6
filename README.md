@@ -1,5 +1,5 @@
 ### Executive Summary
-
+In this unit of IT1025 you will learn about Internet arhitecture and internet protocol. you will learn more about internet programming and how it works. you will learn about W3C and why it was made. 
 ### Internet Architecture
 #### Internet Protocol
 Internet protocol (IP) address are unique numbers that is assigned to every computer or device thats connected to the internet. It helps identify every device thats connected to the internt and wether if its a web-server, smartphone, laptop, and a mail server. IPV4 has over 4 billion unique IP address in the internet. IPv4’s has a 32-bit address space of four billion addresses, comapred to IPv6 which  has a 128-bit address space which is 340 undecillion addresses. Currently IPv4 has no more IP address to issue beacuse it lost its capacity but Ipv6 still has alot IP address to issue for the next 30 years. ICANN The Internet Corporation for Assigned Names and Numbers. Its a nonprofit organization responsible for coordinating the maintenance and procedures of several databases related to the namespaces and numerical spaces of the Internet, ensuring the network's stable and secure operation. ICANN helps coordinate the DNS and manage IP address.
@@ -19,6 +19,9 @@ XMl is designed to transfer data unlike HTML where its displays data. XML tags a
 ### Components of a URL
 #### Understanding a URl
 Every URL begins with the scheme. This tells your browser what type of address it is so the browser connects to it correctly. examples of a scheme is HTTP and HTTPS. The domain name is the most prominent part of a web address. An example of a domain name is www.amazon.com. the anchor begins with a hashtag and is used to direct your browser to a specific part of a very long page, much like a bookmark. A top level domain tells you what kind of website your on for example an educational website would have .edu at the end. a default page has no file path provided.
+
+### Conclusion 
+In this unit of IT1025 i learned about how to secure your web browser. I learned more about IPv4 and IPv6 and how they are different. I learned about HTML and how to know if a website is safe to use.
 
 
 
