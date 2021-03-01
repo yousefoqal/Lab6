@@ -10,5 +10,15 @@ HTTP stands for hypertext transfer protocol. Its the most widly used protocol in
 #### Securing your web browser 
 You should secure your browser beacuse people now days have senstive data on there computers and by securing it can maje your inofrmation secure from hacker,spyware that can be used to steal your senstive data. One of the risks are client-side systems. Attackers use the vulnerabilities in client-side systems to take complete control of your computer and steal your sensitive data.
 ### Internet Programming
+#### World Wide Web Consortium
 Tim Berners-Lee, inventor of the World Wide Web and Director. It was created to help coordinate technology development and manage the operations of the Consortium. For my standard i picked web of services security. Xml signature helps to protect your data from hackers and malware. Which is very important beacuse its used to help protect your sensitive data that you dont want anyone to obtain. XML Encryption does a good job of protecting by using an  Encryption element which contains or references the cipher data.
+#### HTML5 and CSS
+The technologies that i used was i changed the colors and added a border.
+#### HTML and XML
+XMl is designed to transfer data unlike HTML where its displays data. XML tags are not predefined like HTML tags are. The basic unit in the XML is known as an element. 
+### Components of a URL
+#### Understanding a URl
+Every URL begins with the scheme. This tells your browser what type of address it is so the browser connects to it correctly. examples of a scheme is HTTP and HTTPS. The domain name is the most prominent part of a web address. An example of a domain name is www.amazon.com. the anchor begins with a hashtag and is used to direct your browser to a specific part of a very long page, much like a bookmark. A top level domain tells you what kind of website your on for example an educational website would have .edu at the end. a default page has no file path provided.
+
+
 
